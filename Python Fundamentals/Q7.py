@@ -1,9 +1,10 @@
-#Write a short program that asks for your height in centimetres
-#  and then converts your height to feet and inches. (1 feet 12 inches, 1 inch-2.54 cm)
+# Accept marks in 5 subjects from the user and output the average marks.
+a = int(input("Enter marks for subject 1: "))
+b = int(input("Enter marks for subject 2: "))   
+c = int(input("Enter marks for subject 3: "))
+d = int(input("Enter marks for subject 4: "))
+e = int(input("Enter marks for subject 5: "))
+average = (a + b + c + d + e) / 5
+print("The average marks are:", average)
 
-height_in_cm = float(input("Enter your height in centimetres: "))
-inches = height_in_cm / 2.54 
-feet = int(inches // 12)   
-
-print(f"Your height is {feet} feet and {inches} inches.")
 
