@@ -39,7 +39,7 @@
 - **Q14:** Write a program that impsuns a string and then prints it equal to member of times is length, eg. Enter string "eka".  
   Rexult ekankaeka.  
 
-- **Q15:** Find the volume of the cylinder (ar) as shown in tigh.  
+- **Q15:** Find the volume of the cylinder (pir2h).  
 
 - **Q16:** Write a program to input the radius of a sphere and calculate its volume v = 4/3 pi r3.  
 

@@ -1,5 +1,5 @@
 #- **Q12:** Write a program to find a side of a right angled triangle whose two sides and an angle is given. 
-# without importing math module.
+
 side_a = float(input("Enter length of side a: "))
 side_b = float(input("Enter length of side b: "))
 
